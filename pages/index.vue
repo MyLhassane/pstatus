@@ -24,6 +24,8 @@
 </template>
 
 <script>
+
+
 import AppLogo from '~/components/AppLogo.vue'
 
 import Item from '@/components/Item'
@@ -65,8 +67,7 @@ export default {
     })
   }
 };
-GrabzIt("NmI3ZGU4ZGI5NTEzNGFjZWE5Y2JjMWNjMzZkOGY4Y2U=").ConvertURL("http://www.google.com", 
-{"bwidth":1024,"bheight":768,"width":195,"height":146}).Create();
+
 </script>
 
 <style>
